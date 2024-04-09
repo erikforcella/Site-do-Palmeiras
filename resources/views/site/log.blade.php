@@ -12,7 +12,7 @@
       }
 
       .div-1 {
-        background-image: url("{{ asset('img/contabilidade-img.jpg') }}");
+        background-image: url("{{ asset('img/logistica.jpg') }}");
         height: 100vh;
         width: 100%;
 
@@ -98,7 +98,7 @@
       </p>
     </div>
     <div class="col-md-6">
-      <img class="img-fluid ads-img" src="{{ asset('img/log.jpg') }}" alt="Imagem Administração">
+      <img class="img-fluid log" src="{{ asset('img/log.jpg') }}" alt=" ">
     </div>
   </div>
 </div>

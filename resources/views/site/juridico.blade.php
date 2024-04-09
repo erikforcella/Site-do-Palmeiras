@@ -23,7 +23,7 @@
         text-align: center;
       }
 
-      .juri-img {
+      .juri {
         height: 325px;
         width: 750px;
       }
@@ -97,7 +97,7 @@
       O TÉCNICO EM SERVIÇOS JURÍDICOS é o profissional que atua diretamente na rotina de escritórios de advocacia e demais organizações que dispõem de setor ou departamento jurídico, dando suporte e apoio técnico-administrativo ao profissional do direito. É responsável pelo acompanhamento, gerenciamento e arquivo de processos de natureza jurídica. Presta atendimento receptivo ao público.
     </div>
     <div class="col-md-6">
-      <img class="img-fluid juri-img" src="{{ asset('img/juri-img.jpg') }}" alt="">
+      <img class="img-fluid juri" src="{{ asset('img/juri-img.jpg') }}" alt="">
     </div>
   </div>
 </div>

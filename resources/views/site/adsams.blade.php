@@ -98,7 +98,7 @@
       </p>
     </div>
     <div class="col-md-6">
-      <img class="img-fluid ads-img" src="{{ asset('img/ads-img.jpg') }}" alt="">
+      <img class="img-fluid adsams-img" src="{{ asset('img/ads-img.jpg') }}" alt="">
     </div>
   </div>
 </div>

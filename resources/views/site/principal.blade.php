@@ -149,7 +149,7 @@
       seus fenômenos e variações, tanto no aspecto quantitativo quanto no qualitativo, registrando 
       atos de natureza econômico-financeira que o afetam e estudando suas consequências na dinâmica financeira.
       </p>
-      <a href="{{ route('site.adm') }}" class="btn btn-secondary">Saiba mais!</a>
+      <a href="{{ route('site.contabilidade') }}" class="btn btn-secondary">Saiba mais!</a>
     </div>
   </div>
 
